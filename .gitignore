@@ -4,3 +4,5 @@ env.py
 __pycache__
 *.csv
 *.json
+mpg_csv/
+mpg_json/
