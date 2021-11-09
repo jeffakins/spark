@@ -6,3 +6,5 @@ __pycache__
 *.json
 mpg_csv/
 mpg_json/
+case_csv
+case_json
